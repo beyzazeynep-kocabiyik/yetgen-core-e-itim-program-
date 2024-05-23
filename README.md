@@ -1,2 +1,1 @@
-# beyza zeynep-kocabiyik-
-eğitim öncesi sonrası uygulamalar
+# beyza zeynep-kocabiyik
