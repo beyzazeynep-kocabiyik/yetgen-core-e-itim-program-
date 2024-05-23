@@ -1,2 +1,2 @@
-# yetgen-core-egitim-program-
+# beyza zeynep-kocabiyik-
 eğitim öncesi sonrası uygulamalar
