@@ -1,2 +1,2 @@
-# yetgen-core-e-itim-program-
-eğitim öncesi sonrası uygulamalr
+# yetgen-core-egitim-program-
+eğitim öncesi sonrası uygulamalar
